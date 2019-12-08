@@ -1,0 +1,8 @@
+.profileDiv {
+  width: 45%;
+}
+
+.profileDiv:hover {
+  color: gray;
+  cursor: auto;
+}

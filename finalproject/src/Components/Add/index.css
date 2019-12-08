@@ -1,0 +1,43 @@
+.Add {
+  color: green;
+  background-color: #e8e8e8;
+  padding: 1em 1em 1em 1em;
+  border-radius: .4em;
+  display: inline-block;
+  width: 19%;
+  margin: .4em .4em .4em .4em;
+  text-align: center;
+  cursor: pointer;
+  float: left;
+}
+
+.Add:hover {
+  background-color: #c9c9c9;
+}
+
+#outputDiv {
+  position: fixed;
+  top: 11%;
+  background-color: #e8e8e8;
+  width: 45%;
+  padding: 1em 1em 1em 1em;
+  border-radius: .4em;
+  margin: .4em .4em .4em .4em;
+}
+
+#outputDivContainer {
+  position: absolute;
+}
+
+#submission {
+  background-color: #c7c7c7;
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  border-radius: .4em;
+}
+
+#submission:hover {
+  background-color: #a6a6a6;
+  cursor: pointer;
+}

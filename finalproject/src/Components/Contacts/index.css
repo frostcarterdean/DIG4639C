@@ -1,0 +1,20 @@
+#contactsDivContainer {
+  text-align: left;
+}
+
+#contactsDiv {
+  margin: .4em .4em .4em .4em;
+  text-align: left;
+  width: 45%;
+
+}
+
+.Contacts {
+  background-color: #e8e8e8;
+  padding: 1em 1em 1em 1em;
+  border-radius: .4em;
+}
+
+.Contacts:hover {
+  background-color: #c9c9c9;
+}
